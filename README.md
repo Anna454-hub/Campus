@@ -47,3 +47,8 @@
 -	переглядати журнал дій, 
 -	блокувати або розблоковувати аккаунти.
 
+Посилання на Trello: https://trello.com/b/JZVYC0D/campus
+
+Технології: HTML, CSS, JavaScript
+
+Статус: In Progress
